@@ -1,0 +1,6 @@
+{
+  "name": "Community Hub",
+  "description": "Full-stack community platform combining discussion forum threads, comments, tags, votes, and instant messaging channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
